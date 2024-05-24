@@ -1,0 +1,7 @@
+.bg{
+  background-color: rgb(206, 216, 248);
+  border:2px solid rgb(191, 205, 252);
+  border-radius: 10px;
+  padding:5px;
+  margin: 4px;
+}
